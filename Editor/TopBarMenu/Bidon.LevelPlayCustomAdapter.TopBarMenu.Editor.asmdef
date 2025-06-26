@@ -1,0 +1,19 @@
+{
+    "name": "Bidon.LevelPlayCustomAdapter.TopBarMenu.Editor",
+    "rootNamespace": "Bidon.LevelPlayCustomAdapter.TopBarMenu.Editor",
+    "references": [
+        "GUID:7c4f9ec3fd9644c218b76e79842f2838",
+        "GUID:0699b40537fe9486c9e46f0ebf7d2e10"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Bidon.LevelPlayCustomAdapter.AssetExtractors.Editor",
+    "rootNamespace": "Bidon.LevelPlayCustomAdapter.AssetExtractors.Editor",
+    "references": [
+        "GUID:7c4f9ec3fd9644c218b76e79842f2838"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

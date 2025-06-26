@@ -1,0 +1,16 @@
+{
+    "name": "Bidon.LevelPlayCustomAdapter.Utilities.Editor",
+    "rootNamespace": "Bidon.LevelPlayCustomAdapter.Utilities.Editor",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

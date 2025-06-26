@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<items>
+    <item>
+        <name>Bidon Adapter Dependencies Directory</name>
+        <path>LevelPlayBidonCustomAdapter/Editor/Dependencies</path>
+        <is_confirmation_required>false</is_confirmation_required>
+        <check_if_empty>false</check_if_empty>
+    </item>
+    <item>
+        <name>Bidon Adapter Editor Directory</name>
+        <path>LevelPlayBidonCustomAdapter/Editor</path>
+        <is_confirmation_required>false</is_confirmation_required>
+        <check_if_empty>true</check_if_empty>
+    </item>
+    <item>
+        <name>Bidon Adapter Root Directory</name>
+        <path>LevelPlayBidonCustomAdapter</path>
+        <is_confirmation_required>false</is_confirmation_required>
+        <check_if_empty>true</check_if_empty>
+    </item>
+</items>

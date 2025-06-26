@@ -1,0 +1,14 @@
+{
+    "name": "Bidon.LevelPlayCustomAdapter",
+    "rootNamespace": "Bidon.LevelPlayCustomAdapter",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

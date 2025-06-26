@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: LevelPlay Bidon Custom Adapter Documentation
+    url: https://docs.bidon.org/docs/level-play/sdk-integration
+    about: The place to get started with Bidon Custom Adapter.

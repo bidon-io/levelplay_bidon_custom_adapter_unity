@@ -1,0 +1,21 @@
+{
+  "name": "com.unity.services.levelplay.adapters.bidon",
+  "version": "0.8.0",
+  "displayName": "LevelPlay Bidon Custom Adapter",
+  "description": "Provides control over advertising auctions to Publishers, while making it fair and transparent.",
+  "unity": "2020.1",
+  "documentationUrl": "https://docs.bidon.org/docs/level-play/sdk-integration",
+  "changelogUrl": "https://github.com/bidon-io/levelplay_bidon_custom_adapter_unity/blob/main/CHANGELOG.md",
+  "keywords": [
+    "Bidon",
+    "Postbid",
+    "Mediation",
+    "Monetization"
+  ],
+  "author":
+  {
+    "name": "Bidon Foundation",
+    "email": "hi@bidon.org",
+    "url": "https://bidon.org"
+  }
+}
